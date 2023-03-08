@@ -1,0 +1,25 @@
+Git é um sistema de controle de versão amplamente utilizado para gerenciar projetos de software. Ele possui uma variedade de comandos que permitem que os usuários gerenciem diferentes aspectos do versionamento de arquivos e colaboração em equipe. Abaixo estão alguns dos comandos mais comuns do Git e suas funções:
+
+git init: Inicializa um repositório Git em um diretório vazio.
+
+git clone: Clona um repositório existente do Git para uma nova pasta local.
+
+git add: Adiciona arquivos ao índice (também conhecido como "área de preparação") para serem incluídos em um próximo commit.
+
+git commit: Registra as mudanças nos arquivos que foram adicionados ao índice, criando um novo commit.
+
+git push: Envio as alterações registradas no repositório local para o repositório remoto.
+
+git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+
+git status: Mostra o estado atual do repositório, incluindo quais arquivos foram modificados, adicionados ou excluídos.
+
+git log: Mostra o histórico de commits do repositório, incluindo o autor, a data e a mensagem de cada commit.
+
+git branch: Mostra uma lista de todos os ramos disponíveis no repositório e indica qual ramo atualmente está sendo utilizado.
+
+git merge: Combina as alterações de um ramo com outro.
+
+git stash: Salva temporariamente as mudanças que ainda não foram concluídas, permitindo que o usuário troque de ramo ou volte a um estado anterior do repositório sem perder o trabalho realizado.
+
+Esses são apenas alguns dos comandos mais comuns do Git, existem muitos outros disponíveis, cada um com sua própria função e opções adicionais.
