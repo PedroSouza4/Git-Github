@@ -1,2 +1,3 @@
 # Git-Github
-estudos de git/github
+- este repositório foi criado apenas para por em pratica meus conhecimentos.
+- também  para anotações.
